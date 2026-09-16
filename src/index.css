@@ -17,3 +17,20 @@ td {
 img {
   width: 100px;
 }
+
+dialog {
+  padding: 20px;
+  border: 1px solid black;
+}
+
+dialog img,
+dialog video {
+  max-width: 500px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
