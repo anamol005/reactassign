@@ -1,1 +1,1 @@
-Open [routing application](https://users.metropolia.fi/~anamolk/wsk-routing/) to view it in the browser.
+Open [hooks application](https://users.metropolia.fi/~anamolk/hooks/) to view it in the browser.
